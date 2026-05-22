@@ -18,20 +18,3 @@ I am a Computer Networks and Data Communications student with hands-on experienc
 **Programming:** C#, Java, JavaScript, Node.js, Python  
 **Tools:** Git, GitHub, Wireshark, Cisco Packet Tracer, VS Code
 
-## Featured Projects
-
-### Hybrid CI/CD IaC
-A hybrid DevSecOps pipeline using GitHub Actions, Terraform, Ansible, Docker, Prometheus, Grafana, Checkov, and Trivy.
-
-### Audiobook Mobile App
-An Android audiobook application with backend API integration, online audio streaming, and MongoDB-based content management.
-
-### Network Programming Basic
-A collection of basic network programming exercises using TCP/UDP socket programming, client-server communication, file transfer, and multithreading.
-
-### Terraform CloudFormation
-Infrastructure as Code practice project using Terraform and AWS CloudFormation concepts.
-
-## Contact
-
-- GitHub: [leanhquan0211](https://github.com/leanhquan0211)
